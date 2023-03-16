@@ -1,0 +1,19 @@
+.main_container {
+    display: flex;
+    height: 100vh;
+    padding: 25px;
+    flex-direction: column;
+    background-color: black;
+}
+
+.header {
+    flex: 2;
+}
+
+.details {
+    flex: 4;
+}
+
+.recommendations {
+    flex: 2;
+}
